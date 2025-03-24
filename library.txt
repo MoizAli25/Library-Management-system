@@ -1,0 +1,9 @@
+[
+    {
+        "title": "The Game of Thrones",
+        "author": "G.R.R Martin",
+        "year": "1996",
+        "genre": "fantasy",
+        "read": true
+    }
+]
